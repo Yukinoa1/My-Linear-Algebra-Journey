@@ -86,7 +86,7 @@ $$W = (W \cap V_1) \oplus (W \cap V_2) \oplus \cdots \oplus (W \cap V_k).$$
 
 $$由于 W \subseteq V ，取 W 的基 \beta_1, \beta_2, \ldots, \beta_t . **显然**{ \beta_1, \ldots, \beta_t } \subset { \alpha_{11}, \ldots, \alpha_{1r_1}, \ldots, \alpha_{k1}, \ldots, \alpha_{kr_k} }$$
 
-当中，后半句明显是错误的命题，因为一组向量是 $V$ 的基，不仅要求线性无关性和线性张成性，还要求这组向量属于于 $V$ . 
+当中，后半句明显是错误的命题，因为一组向量是 $V$ 的基，不仅要求线性无关性和线性张成性，还要求这组向量属于 $V$ . 
 
 因此，虽然 $\alpha_{11}, \ldots, \alpha_{1r_1}, \ldots, \alpha_{k1}, \ldots, \alpha_{kr_k}$ 中的每t个向量都线性无关，且存在t个向量张成 $W$ ，但这t个向量可能不属于 $W$ . 也就是说，我们无法确保在 $V$ 的一组基中取到 $W$ 的一组基. 
 
