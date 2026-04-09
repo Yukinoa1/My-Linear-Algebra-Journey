@@ -70,7 +70,7 @@ $$V = U_1 \oplus W = U_2 \oplus W .      \square $$
 
 ## 问题2
 
-设 $V$ 是复数域 $\mathbb{C}$ 上一个 $n$ 维向量空间， $\sigma$ 是 $V$ 的一个线性变换， $V$ 关于 $\sigma$ 的准素分解为 $V = V_1 \oplus V_2 \oplus \cdots \oplus V_k$. 令 $W$ 是 $V$ 的一个 $\sigma$ 不变子空间，证明
+设 $V$ 是复数域 ℂ 上一个 $n$ 维向量空间， $\sigma$ 是 $V$ 的一个线性变换， $V$ 关于 $\sigma$ 的准素分解为 $V = V_1 \oplus V_2 \oplus \cdots \oplus V_k$. 令 $W$ 是 $V$ 的一个 $\sigma$ 不变子空间，证明
 
 $$W = (W \cap V_1) \oplus (W \cap V_2) \oplus \cdots \oplus (W \cap V_k).$$
 
